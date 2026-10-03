@@ -1,0 +1,28 @@
+# Secrets and credentials
+.env
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+*.publishsettings
+
+# Parameter files can hold IDs or secrets. Commit a *.parameters.example.json instead.
+*.parameters.json
+!*.parameters.example.json
+
+# Local tool state
+*.tfstate
+*.tfstate.*
+.azure/
+
+# Private study material, not for this repo
+notes/
+private/
+AZ104_Weak_Points.md
+AZ104_Study_Plan.md
+AZ104_Labs_Todo.md
+
+# OS and editor
+.DS_Store
+*.swp
