@@ -1,6 +1,6 @@
 # Azure labs
 
-Hands-on Azure labs from my AZ-104 to AZ-700 study path, with a networking focus. Each lab is written up the same way: what I built, what I expected, what actually happened, and what I did not run.
+Hands-on Azure labs - each lab is written up the same way: what I built, what I expected, what actually happened, and what I did not run.
 
 ## Reading the status column
 
