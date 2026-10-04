@@ -2,7 +2,6 @@
 
 **Exam area:** AZ-104, Implement and Manage Virtual Networking
 **Run on:** 1 Oct 2026, UK South and West Europe
-**Status:** Stages 0 to 5 run and recorded. Stages 6 to 11 designed but **not run**. Lab resources deleted after the session.
 
 ## Goal
 
@@ -75,4 +74,4 @@ Order used: detach each route table from its subnet, delete the route tables, de
 
 ## Next
 
-Resume at Stage 5: ping from spoke 1 to spoke 2, then check `/proc/sys/net/ipv4/ip_forward` on the NVA, and carry on through Stage 11.
+Create, build and complete Custom DNS register
